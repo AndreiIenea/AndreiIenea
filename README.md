@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @AndreiIenea
-- 👀 I’m interested in Python, CSS, Html, JavaScript
-- 🌱 I’m currently learning: Python, CSS, Html, JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Bine ai venit pe profilul meu GitHub! 👋
 
-<!---
-AndreiIenea/AndreiIenea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Experiență:
+-Sunt incepator in programare.
+
+#### Tehnologii:
+- Limbaje de programare: HTML, Python, Java, CSS, JS.
+
+#### Proiecte:
+-Proiecte utile pentru mine si joculețe simple
+
+#### Linkuri utile:
+- [Repo GitHub](https://github.com/AndreiIenea?tab=repositories)
+
+
