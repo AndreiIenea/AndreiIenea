@@ -9,7 +9,7 @@
 #### Proiecte:
 -Proiecte utile pentru mine si joculețe simple
 
-#### Linkuri utile:
+#### Linkuri :
 - [Repo GitHub](https://github.com/AndreiIenea?tab=repositories)
 
 
