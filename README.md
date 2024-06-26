@@ -15,6 +15,8 @@
 #### Linkuri Aplicații Android:
 -[TrebEdit-Mobile HTML Editor](https://play.google.com/store/apps/details?id=com.teejay.trebedit)
 -[Pydroid 3 IDE for Python 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
+-[QPython](https://play.google.com/store/apps/details?id=org.qpython.qpy)
+-[Spck-Editor](https://play.google.com/store/apps/details?id=io.spck.editor.node)
 
 #### Linkuri Aplicații Windows:
 -[Visual Studio Code](https://code.visualstudio.com/download)
